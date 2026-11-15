@@ -1,0 +1,74 @@
+[
+  {
+    "zip": "GuiWheyLabs_KeyPegRail5_makerworld_v2.zip",
+    "sha256": "3962d509fea3fb878139de8d15bf63221101fe11382ff68064ab7cf20acab3b0",
+    "size": 3437574,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_KeyPegRail5_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_KeyPegRail5_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_KeyPegRail5_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1037574
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_StepRiser3Tier_makerworld_v2.zip",
+    "sha256": "a301a687f72830194b8d7e50d564b1f85d2c35850b34d85797ba89cecb119ffb",
+    "size": 3094679,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_StepRiser3Tier_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_StepRiser3Tier_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_StepRiser3Tier_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 694679
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_PegboardHooks3Sizes_makerworld_v2.zip",
+    "sha256": "5ad58d0b527749dd2a190b1c77fd4c543712f3bf8dc9f02933073cdd066b0e8e",
+    "size": 1614669,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_PegboardHooks3Sizes_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PegboardHooks3Sizes_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 414669
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_HoseRopeHanger_makerworld_v2.zip",
+    "sha256": "aed8aab3c431ec4ea63c35f691b5c83955a253d0a1008d5ab2ac8187af569e6f",
+    "size": 3218024,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_HoseRopeHanger_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HoseRopeHanger_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HoseRopeHanger_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 818024
+      }
+    ]
+  }
+]
