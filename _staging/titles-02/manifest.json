@@ -1,0 +1,50 @@
+[
+ {
+  "zip": "GuiWheyLabs_DrawerTray4Bay_makerworld_v3.zip",
+  "sha256": "ef70ead9a2576c923c6f3ca9354cfc047e66b418b842f66a60ef6c49f8198549",
+  "size": 1540243,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_DrawerTray4Bay_makerworld_v2.zip",
+   "source_sha256": "2e1b8d0f75a61eac7da089f1240a273cf94589189385846d62e3e24b46a09d30",
+   "source_size": 1539388,
+   "old_title": "4-Bay Drawer Organizer Tray - 240 x 150 mm",
+   "new_title": "4-Bay Drawer Organizer Tray, 240 x 150 mm"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_HeadphoneStand_makerworld_v3.zip",
+  "sha256": "c0a42e4d7410a4c7d0f0deae4588d615612d59eeb56f59691539eac7899a9979",
+  "size": 3375925,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_HeadphoneStand_makerworld_v2.zip",
+   "source_sha256": "d10e87ddef304dc10e4a0e9966158ff9317bcd1e892056505e40bfe29a590486",
+   "source_size": 3375094,
+   "old_title": "Desktop Headphone Stand - One Piece, No Supports",
+   "new_title": "Desktop Headphone Stand - One Piece"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v3.zip",
+  "sha256": "85c97d11b54f34b9a2b166263fea059d528df1a03fd2824df531a9ff427f5a66",
+  "size": 12041821,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip",
+   "source_sha256": "a632e04fdfcd0372cd01b4a04738784b9ec5ce992d80dc81ee4953e8b4fa13de",
+   "source_size": 12040717,
+   "old_title": "Swirl Rinse Bowl with Center Cone - Hex Produce Washer, 2 Sizes",
+   "new_title": "Swirl Rinse Bowl with Center Cone, 2 Sizes"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_LidBoardRack7Slot_makerworld_v3.zip",
+  "sha256": "edcb1f6b17cc21b833b4079af2b97ad0932c53b277b2e9c9f34fa39a01b7b0a7",
+  "size": 1499902,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_LidBoardRack7Slot_makerworld_v2.zip",
+   "source_sha256": "40fe9da7523e665534995dd667b1cf50b5d763e65a06bbb9de01fd4715c99be7",
+   "source_size": 1499158,
+   "old_title": "7-Slot Lid and Cutting Board Rack - Counter or Cabinet",
+   "new_title": "7-Slot Lid and Cutting Board Rack"
+  }
+ }
+]
