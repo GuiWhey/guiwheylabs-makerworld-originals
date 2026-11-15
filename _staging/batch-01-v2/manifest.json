@@ -9,5 +9,20 @@
         "raw_bytes": 948813
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_visor-sunglass-clip-2pack_makerworld_v2.zip",
+    "sha256": "679e3f7eec6a40d3344a3b1e545e41f851dbca1b7298fe702018f75496e9ddbc",
+    "size": 1415591,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_visor-sunglass-clip-2pack_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_visor-sunglass-clip-2pack_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 215591
+      }
+    ]
   }
 ]
