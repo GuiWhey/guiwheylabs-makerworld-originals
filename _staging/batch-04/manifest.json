@@ -1,0 +1,70 @@
+[
+  {
+    "zip": "GuiWheyLabs_PowerStripMount_makerworld_v2.zip",
+    "sha256": "ca0652b3104c9eaf69cd44765c181d00b5b0aade395d3aa38c77a0e55dc1373e",
+    "size": 2132602,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_PowerStripMount_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PowerStripMount_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 932602
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_CableWinders8_makerworld_v2.zip",
+    "sha256": "a13566536d9bdee53bb6bc9db8445fa0984b25b84ede8c80400bd859cdeafd4b",
+    "size": 1735666,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_CableWinders8_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CableWinders8_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 535666
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_SHooks6_makerworld_v2.zip",
+    "sha256": "9d1f82a1d39339b2f30f1a469c2cec9390e21a9a3acd7788c910b742ea3605b4",
+    "size": 2828034,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_SHooks6_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SHooks6_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SHooks6_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 428034
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_HexBitHolder24_makerworld_v2.zip",
+    "sha256": "da89b98a48f3c2c7104836383dfd3abc0c5ee0d5dbea2ae9e2c691404b0fc11b",
+    "size": 3021116,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_HexBitHolder24_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexBitHolder24_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexBitHolder24_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 621116
+      }
+    ]
+  }
+]
