@@ -23,6 +23,33 @@
     ]
   },
   {
+    "zip": "GuiWheyLabs_seat-gap-catch-and-cup-trash-set_makerworld_v2.zip",
+    "sha256": "9714fabc0eac6b750c9613e3589a3f75bdd593f865ff0b8671083d7c697c4cd0",
+    "size": 4842111,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_seat-gap-catch-and-cup-trash-set_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_seat-gap-catch-and-cup-trash-set_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_seat-gap-catch-and-cup-trash-set_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_seat-gap-catch-and-cup-trash-set_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_seat-gap-catch-and-cup-trash-set_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 42111
+      }
+    ]
+  },
+  {
     "zip": "GuiWheyLabs_vent-slat-hook-fin_makerworld_v2.zip",
     "sha256": "c594179ddc202d0b36b2afd29fc70ebbe61ca06502f0ca8fc57016f94153127f",
     "size": 948813,
