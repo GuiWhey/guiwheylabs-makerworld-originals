@@ -38,7 +38,23 @@ def fetch(url: str) -> bytes:
 ok = True
 for item in manifest:
     out = DEST / item["zip"]
-    if "retitle" in item:
+    if "addimages" in item:
+        from retitle_core import add_images
+        ai = item["addimages"]
+        src = fetch(ai["source_url"])
+        if hashlib.sha256(src).hexdigest() != ai["source_sha256"] or len(src) != ai["source_size"]:
+            print(f"SOURCE MISMATCH {item['zip']}", file=sys.stderr)
+            ok = False
+            continue
+        imgs = []
+        for im in ai["images"]:
+            b = (ROOT / im["path"]).read_bytes()
+            if im["path"].endswith(".b64"):
+                b = base64.b64decode(b)
+            assert hashlib.sha256(b).hexdigest() == im["sha256"], im["path"]
+            imgs.append((im["name"], b))
+        data = add_images(src, imgs)
+    elif "retitle" in item:
         from retitle_core import retitle
         rt = item["retitle"]
         src = fetch(rt["source_url"])

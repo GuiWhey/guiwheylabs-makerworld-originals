@@ -1,0 +1,154 @@
+[
+ {
+  "zip": "GuiWheyLabs_CableSlotBar5_makerworld_v4.zip",
+  "sha256": "3026895a1b9833c45f6f8aa1845b0fa6159416dc6312a5ffbc79d3ecece79a71",
+  "size": 1835164,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-01/GuiWheyLabs_CableSlotBar5_makerworld_v3.zip",
+   "source_sha256": "a314f981c7ddcb5bbab2480cb4ea9a083187ff8d054a6b5aa1598a9870b07c3e",
+   "source_size": 1722904,
+   "images": [
+    {
+     "name": "04_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/CableSlotBar5__04_high_contrast_angle.jpg.b64",
+     "sha256": "42311ae95e880338331033fc78a4a49c0bc0a4d73a022a2207b10be5aba891e7"
+    }
+   ]
+  },
+  "title": "5-Slot Cable Organizer Bar for Desk or Car",
+  "n_images": 4
+ },
+ {
+  "zip": "GuiWheyLabs_CupholderCoinKeyTray_makerworld_v4.zip",
+  "sha256": "c0d7fd643374a5d459c85ef0570693b72f59930bfbdaf0209095de78df623523",
+  "size": 2592424,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-01/GuiWheyLabs_CupholderCoinKeyTray_makerworld_v3.zip",
+   "source_sha256": "4ac8ff894339b8245313baef12c72fa829b91eaf4a33a2cbbd0a39517852e4f3",
+   "source_size": 2463402,
+   "images": [
+    {
+     "name": "04_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/CupholderCoinKeyTray__04_high_contrast_angle.jpg.b64",
+     "sha256": "d264de29c1753f9d8bf4251ed215a33bbeb8a16192e57c2d2d4e53dbe5300343"
+    }
+   ]
+  },
+  "title": "Cup Holder Coin and Key Tray, 5 Sections",
+  "n_images": 4
+ },
+ {
+  "zip": "GuiWheyLabs_DrawerTray4Bay_makerworld_v4.zip",
+  "sha256": "1d62d3001f36993751b204681be2f122dd5be9c8dba9cccb40947e94e98c4d8e",
+  "size": 1666744,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-02/GuiWheyLabs_DrawerTray4Bay_makerworld_v3.zip",
+   "source_sha256": "ef70ead9a2576c923c6f3ca9354cfc047e66b418b842f66a60ef6c49f8198549",
+   "source_size": 1540243,
+   "images": [
+    {
+     "name": "04_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/DrawerTray4Bay__04_high_contrast_angle.jpg.b64",
+     "sha256": "fa8875c6fe54c592593866ab10abc8f64d7d71720f3c023f834a6c71198b6272"
+    }
+   ]
+  },
+  "title": "4-Bay Drawer Organizer Tray, 240 x 150 mm",
+  "n_images": 4
+ },
+ {
+  "zip": "GuiWheyLabs_OverDoorDoubleHook_makerworld_v4.zip",
+  "sha256": "7848d7a63a64e479e1d93d756b8ded04b873c0ef958094506d723733a00393c2",
+  "size": 2735538,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-03/GuiWheyLabs_OverDoorDoubleHook_makerworld_v3.zip",
+   "source_sha256": "a2d5d4c5b6994744f85dae498baf9560e63604b8baca49d3bf8fafd94c8af809",
+   "source_size": 2618992,
+   "images": [
+    {
+     "name": "04_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/OverDoorDoubleHook__04_high_contrast_angle.jpg.b64",
+     "sha256": "e9d8c5e9ab9aca7da2f810ad08c1d96e9cdf573fc8f8b4d25d62fc74e0fd8227"
+    }
+   ]
+  },
+  "title": "Over-the-Door Double Hook, Fits 38 mm Doors",
+  "n_images": 4
+ },
+ {
+  "zip": "GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v4.zip",
+  "sha256": "c6fc7226f51b2f4f8641f7ca73a39edc11431d63c13ba7e5b69860ab0115e7aa",
+  "size": 3634761,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-03/GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v3.zip",
+   "source_sha256": "373bcc8407814ae3c9cfc8b109bc23a8b23d6320bb06853c186ce12d40079c3f",
+   "source_size": 3519710,
+   "images": [
+    {
+     "name": "04_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/ScrewdriverRack2Tier__04_high_contrast_angle.jpg.b64",
+     "sha256": "180392484d4fd58d4c26e8794180dfe4288a4bfff0b11a7d52a1663c4117f060"
+    }
+   ]
+  },
+  "title": "Two-Tier Screwdriver and Pliers Desk Rack",
+  "n_images": 4
+ },
+ {
+  "zip": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v4.zip",
+  "sha256": "cada05590dba2e75f77b300b747d7935fb03e36aaeb6ef2c4680bb1b2a3f0c3c",
+  "size": 12977990,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-04/GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v3.zip",
+   "source_sha256": "20f1a3f18ff610739baa0b89270b3c82b573b10394d527a1fa84e5d59f21ffb3",
+   "source_size": 12837505,
+   "images": [
+    {
+     "name": "05_high_contrast_two_halves.jpg",
+     "path": "_staging/images-01/extra/VanFloorDock_PowerStation_StrapWindows__05_high_contrast_two_halves.jpg.b64",
+     "sha256": "423fe9b3935e1a7f35328f1d74fb3d4e3adf4374c38bd60c7d742ee07e5baaa9"
+    }
+   ]
+  },
+  "title": "Van Floor Dock for Power Station, Strap Slots",
+  "n_images": 4
+ },
+ {
+  "zip": "GuiWheyLabs_CableWinders8_makerworld_v4.zip",
+  "sha256": "ddcec897ef3c059d95f0bfc4897ea3a89d7b94d1c19c52f3a835a26b79b3acc8",
+  "size": 1850129,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-07/GuiWheyLabs_CableWinders8_makerworld_v3.zip",
+   "source_sha256": "08e55cd4fe5454b3d98477588007491e8bb4153660cd1a92bd70457e95d40dfc",
+   "source_size": 1736574,
+   "images": [
+    {
+     "name": "05_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/CableWinders8__05_high_contrast_angle.jpg.b64",
+     "sha256": "a6c1736b8ad6e60e59c43f011c2664cfe8c4f051f634ebc352ba3254fc7d762b"
+    }
+   ]
+  },
+  "title": "Cable Winders 8-Pack - Small and Large",
+  "n_images": 5
+ },
+ {
+  "zip": "GuiWheyLabs_MugTree4Peg_makerworld_v4.zip",
+  "sha256": "0aa460306dbbe67460664dccdf4b5471092fb58f9120b491357616198521f84f",
+  "size": 7098394,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/titles-05/GuiWheyLabs_MugTree4Peg_makerworld_v3.zip",
+   "source_sha256": "e4061c885751062f62cd93df6c172ec9d57025f409ac357293d8a94ef6fc2777",
+   "source_size": 6995630,
+   "images": [
+    {
+     "name": "05_high_contrast_angle.jpg",
+     "path": "_staging/images-01/extra/MugTree4Peg__05_high_contrast_angle.jpg.b64",
+     "sha256": "1f2480d4edae71cefca62695d728064964caec381b6a15e03940bd195348f8cd"
+    }
+   ]
+  },
+  "title": "Mug Tree - 4 Pegs, One Piece, No Supports",
+  "n_images": 5
+ }
+]
