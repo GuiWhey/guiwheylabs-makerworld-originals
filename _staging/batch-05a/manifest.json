@@ -1,0 +1,93 @@
+[
+  {
+    "zip": "GuiWheyLabs_BookendsPair_makerworld_v2.zip",
+    "sha256": "7837d4e63774e9c896b08a87973dcbdb6a4cccd84059ad3c6414cb185c4716a2",
+    "size": 2437233,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_BookendsPair_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BookendsPair_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BookendsPair_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 37233
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_DeskEdgeClips3_makerworld_v2.zip",
+    "sha256": "5f2a63f8bfa1b004d013152f8aa1fffbada181a4c047d320111dd229d8f88434",
+    "size": 3134631,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DeskEdgeClips3_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DeskEdgeClips3_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DeskEdgeClips3_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 734631
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_CupCoasters4_makerworld_v2.zip",
+    "sha256": "78751523ba6157f31cdde197017582b93a53e05df8c67242547294624a6e0f82",
+    "size": 2618071,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_CupCoasters4_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupCoasters4_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupCoasters4_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 218071
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_BagClips6_makerworld_v2.zip",
+    "sha256": "8139b5c82513c8276660bf66148b21b925a445254375c9b9f261b8dc40ff48ef",
+    "size": 1458557,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_BagClips6_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BagClips6_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 258557
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_DeskPenCup3_makerworld_v2.zip",
+    "sha256": "7071bf1ec7bc3792ff0882acb22966721149ab3d895d16c5b64309a182b9d3cc",
+    "size": 2645772,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DeskPenCup3_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DeskPenCup3_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DeskPenCup3_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 245772
+      }
+    ]
+  }
+]
