@@ -70,5 +70,105 @@
         "raw_bytes": 818024
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip",
+    "sha256": "a8cb7a7c300aca9aae96a594f378c960dad5d0e2ac9ddc6d8275a99d8ca1eba7",
+    "size": 6994751,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_MugTree4Peg_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 994751
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_CupHolderPhoneDock_makerworld_v2.zip",
+    "sha256": "f5a49cf6c52743a4a205e3f2f6cc7a60a4d286f28d5e5337c1d5e70cf137c3d3",
+    "size": 4112958,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_CupHolderPhoneDock_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupHolderPhoneDock_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupHolderPhoneDock_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupHolderPhoneDock_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 512958
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_ShelfBracketL_makerworld_v2.zip",
+    "sha256": "5020d090b17c596456aa96191c539ea73384b4af1e165e4ccf07234f3595499b",
+    "size": 5441615,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_ShelfBracketL_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ShelfBracketL_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ShelfBracketL_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ShelfBracketL_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ShelfBracketL_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 641615
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_BroomClipWall_makerworld_v2.zip",
+    "sha256": "a8f294a8ddb3086f87928645ab17bb3d9df33fffd73f13ace6213253c5ff057a",
+    "size": 2623556,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_BroomClipWall_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BroomClipWall_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BroomClipWall_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 223556
+      }
+    ]
   }
 ]
