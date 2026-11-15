@@ -1,0 +1,50 @@
+[
+ {
+  "zip": "GuiWheyLabs_CableSlotBar5_makerworld_v3.zip",
+  "sha256": "a314f981c7ddcb5bbab2480cb4ea9a083187ff8d054a6b5aa1598a9870b07c3e",
+  "size": 1722904,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_CableSlotBar5_makerworld_v2.zip",
+   "source_sha256": "07a005a5f22adf5cde4a822c883fefa0b64fe00d05c56508bfe4b07e8a19081a",
+   "source_size": 1722044,
+   "old_title": "5-Slot Cable Organizer Bar - Desk or Car Console, Screw or Tape Mount",
+   "new_title": "5-Slot Cable Organizer Bar for Desk or Car"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_CupholderBottleAdapter_makerworld_v3.zip",
+  "sha256": "c77ee1afa922e24b7697b8f82cd11ec2770c2ff88af4d86fd5cf1fbd096235b0",
+  "size": 1711178,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_CupholderBottleAdapter_makerworld_v2.zip",
+   "source_sha256": "731bf9973cc5bad89fcb120fcf89374c1e8ea02f3c12690e96b375c7e1f0170a",
+   "source_size": 1710294,
+   "old_title": "Cup Holder Adapter Sleeve - Holds 66 mm Cans in Wide 80 mm Holders",
+   "new_title": "Cup Holder Adapter Sleeve for 66 mm Cans"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_CupholderCoinKeyTray_makerworld_v3.zip",
+  "sha256": "4ac8ff894339b8245313baef12c72fa829b91eaf4a33a2cbbd0a39517852e4f3",
+  "size": 2463402,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_CupholderCoinKeyTray_makerworld_v2.zip",
+   "source_sha256": "af3c69a0de6305326d330428003bdab11ce25b59fd68bac48c4c52a9dd04bf19",
+   "source_size": 2462544,
+   "old_title": "Cup Holder Coin and Key Tray - 5 Compartments, Prints Upright",
+   "new_title": "Cup Holder Coin and Key Tray, 5 Sections"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_DeskPhoneStand_makerworld_v3.zip",
+  "sha256": "e0fef828c3b2690e268a9b1ac7da5f7b94e45c51e9bb1b17092d76e50d2bc4b4",
+  "size": 1689632,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_DeskPhoneStand_makerworld_v2.zip",
+   "source_sha256": "9c12cbcf3fa9cf350d0eb4b0a11a1b49afed72f6937ac6e09a0b18b2f9ed2c84",
+   "source_size": 1688737,
+   "old_title": "Desk Phone Stand with Cable Slot - Fits Cases Up to 16 mm",
+   "new_title": "Desk Phone Stand with Cable Slot"
+  }
+ }
+]
