@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Release tag
+        description: Release tag (also the _staging/<tag> directory and RELEASE_NOTES_<tag>.md)
         required: true
         default: batch-01
       title:
@@ -23,15 +23,16 @@ jobs:
       - name: Reassemble zips and create GitHub release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ inputs.tag }}
         run: |
           set -euo pipefail
-          python3 scripts/reassemble_release.py
+          python3 scripts/reassemble_release.py "$TAG"
           ls -lh dist
-          if gh release view "${{ inputs.tag }}" >/dev/null 2>&1; then
-            gh release upload "${{ inputs.tag }}" dist/*.zip --clobber
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" dist/*.zip --clobber
           else
-            gh release create "${{ inputs.tag }}" dist/*.zip \
+            gh release create "$TAG" dist/*.zip \
               --title "${{ inputs.title }}" \
-              --notes-file RELEASE_NOTES_batch-01.md
+              --notes-file "RELEASE_NOTES_${TAG}.md"
           fi
-          gh release view "${{ inputs.tag }}"
+          gh release view "$TAG"
