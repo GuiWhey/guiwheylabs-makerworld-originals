@@ -126,5 +126,97 @@
         "raw_bytes": 522044
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v2.zip",
+    "sha256": "b42d545eb64227d9a2f7fde7c1f699a346d484912aca008117da9e227666fa51",
+    "size": 3518805,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1118805
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_HeadphoneStand_makerworld_v2.zip",
+    "sha256": "d10e87ddef304dc10e4a0e9966158ff9317bcd1e892056505e40bfe29a590486",
+    "size": 3375094,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_HeadphoneStand_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HeadphoneStand_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HeadphoneStand_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 975094
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_SantaStopHereSign_makerworld_v2.zip",
+    "sha256": "53925e1099bfb0497ba124dcab7f514c3e1fcd2b1b0f07aa59492fca3334a027",
+    "size": 3026781,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_SantaStopHereSign_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SantaStopHereSign_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SantaStopHereSign_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 626781
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip",
+    "sha256": "9c6c4619176ee800dc25fe11c22c42205d71ed57740f10e04c2d181475c242c0",
+    "size": 8147399,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SnowmanCanSleeve_3sizes_makerworld_v2.zip.part006.b64",
+        "raw_bytes": 947399
+      }
+    ]
   }
 ]
