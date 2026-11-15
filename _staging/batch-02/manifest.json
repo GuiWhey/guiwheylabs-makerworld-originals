@@ -218,5 +218,193 @@
         "raw_bytes": 947399
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip",
+    "sha256": "8ef9c71df97c980b7ac91be0478fbba3aceb3998b02b376c3da995a7d52ca85f",
+    "size": 9465813,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part006.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip.part007.b64",
+        "raw_bytes": 1065813
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip",
+    "sha256": "ef06b78a45a321cbadc4b4dbcd2c1df0fed298456f97156504061fdcbeee1d01",
+    "size": 12835946,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part006.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part007.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part008.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part009.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip.part010.b64",
+        "raw_bytes": 835946
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip",
+    "sha256": "a632e04fdfcd0372cd01b4a04738784b9ec5ce992d80dc81ee4953e8b4fa13de",
+    "size": 12040717,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part006.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part007.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part008.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part009.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_HexVortex_ProduceRinseBowl_makerworld_v2.zip.part010.b64",
+        "raw_bytes": 40717
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip",
+    "sha256": "5d7e6d4f4c1acdc0390817cdede88eaf16e07bf01a784402c42dbd34efc295af",
+    "size": 11703966,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part006.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part007.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part008.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip.part009.b64",
+        "raw_bytes": 903966
+      }
+    ]
   }
 ]
