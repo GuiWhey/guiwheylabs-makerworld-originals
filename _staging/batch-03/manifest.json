@@ -170,5 +170,51 @@
         "raw_bytes": 223556
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_RemotePocketTrio_makerworld_v2.zip",
+    "sha256": "41c2e07c03d1dcbad239747844fe33e543bca875509cf65295f213c2277d0903",
+    "size": 1748305,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_RemotePocketTrio_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_RemotePocketTrio_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 548305
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip",
+    "sha256": "ffdada39be613d076e8f0a3bd9fc0bc393d55215436569987bee4e29475f0270",
+    "size": 6231313,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 231313
+      }
+    ]
   }
 ]
