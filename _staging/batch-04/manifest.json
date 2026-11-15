@@ -138,5 +138,67 @@
         "raw_bytes": 398319
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip",
+    "sha256": "a21231900e819bbafcba10bb90826d4db2c56de54ce44dd86aaa8c21baf56fb1",
+    "size": 8106280,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part005.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip.part006.b64",
+        "raw_bytes": 906280
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_YarnBowl_makerworld_v2.zip",
+    "sha256": "cc9399f01b621a247beca2a0fa12daeb117c6dc4d9d419b7e4f7b47017b1c53f",
+    "size": 5002274,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_YarnBowl_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_YarnBowl_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_YarnBowl_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_YarnBowl_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_YarnBowl_makerworld_v2.zip.part004.b64",
+        "raw_bytes": 202274
+      }
+    ]
   }
 ]
