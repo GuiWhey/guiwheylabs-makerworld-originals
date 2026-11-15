@@ -66,5 +66,77 @@
         "raw_bytes": 621116
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_DoorStopWedge_makerworld_v2.zip",
+    "sha256": "bac9e3b95bf839ed53b69478203f52d4852e4de62013e2bb45e1958dd11c9c9d",
+    "size": 1339718,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DoorStopWedge_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DoorStopWedge_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 139718
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_ToothbrushHolder4_makerworld_v2.zip",
+    "sha256": "5787805d2da53ea2cf2197c9fd43742d792b101b667013b23cf9f4c1ec68eaed",
+    "size": 1687261,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_ToothbrushHolder4_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_ToothbrushHolder4_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 487261
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_DrawerPulls96x4_makerworld_v2.zip",
+    "sha256": "51d9cebfe91c5ebd8b1b17700fa7b90c3e49a249e418854afa47918d3c0492f7",
+    "size": 3271065,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DrawerPulls96x4_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DrawerPulls96x4_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DrawerPulls96x4_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 871065
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_BagDispenserTube_makerworld_v2.zip",
+    "sha256": "910c4851178eb9c6ba261889ec69f58c6c2bc3d596e6f26190bcc40eee4379bc",
+    "size": 3998319,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_BagDispenserTube_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BagDispenserTube_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BagDispenserTube_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_BagDispenserTube_makerworld_v2.zip.part003.b64",
+        "raw_bytes": 398319
+      }
+    ]
   }
 ]
