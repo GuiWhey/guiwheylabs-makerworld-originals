@@ -1,0 +1,62 @@
+[
+ {
+  "zip": "GuiWheyLabs_PowerStripMount_makerworld_v3.zip",
+  "sha256": "2186961837eb21e191f16f0e64ca1fee5e0ee485528bd0893f130e75af4f1a42",
+  "size": 2133796,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_PowerStripMount_makerworld_v2.zip",
+   "source_sha256": "ca0652b3104c9eaf69cd44765c181d00b5b0aade395d3aa38c77a0e55dc1373e",
+   "source_size": 2132602,
+   "old_title": "Under-Desk Power Strip Mount - Strap Slots, Screw Mount, Prints Flat",
+   "new_title": "Under-Desk Power Strip Mount with Straps"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_SHooks6_makerworld_v3.zip",
+  "sha256": "58cbf100edeae92e21e1d3f7868c302d7f7cc347c4c1fae195bbfff492f1e036",
+  "size": 2828910,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_SHooks6_makerworld_v2.zip",
+   "source_sha256": "9d1f82a1d39339b2f30f1a469c2cec9390e21a9a3acd7788c910b742ea3605b4",
+   "source_size": 2828034,
+   "old_title": "S-Hooks - 6-Pack, 3 Small and 3 Large, Print Flat",
+   "new_title": "S-Hooks - 6-Pack, 3 Small and 3 Large"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_ToothbrushHolder4_makerworld_v3.zip",
+  "sha256": "ac456bd2a916b55962c53a7198bfa2e2a2f0ef4e33c469a67ae4af89f1c19f7d",
+  "size": 1688181,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_ToothbrushHolder4_makerworld_v2.zip",
+   "source_sha256": "5787805d2da53ea2cf2197c9fd43742d792b101b667013b23cf9f4c1ec68eaed",
+   "source_size": 1687261,
+   "old_title": "Wall Toothbrush Holder - 4 Holes with Drip Ramp, Screw Mount",
+   "new_title": "Wall Toothbrush Holder - 4 Holes, Drip Ramp"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_TrunkBottleTray6_makerworld_v3.zip",
+  "sha256": "58f2becc1b66e7f27cbad580e41a7cd49530c8c77055498eeac88f2e0d53f9b9",
+  "size": 8107261,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_TrunkBottleTray6_makerworld_v2.zip",
+   "source_sha256": "a21231900e819bbafcba10bb90826d4db2c56de54ce44dd86aaa8c21baf56fb1",
+   "source_size": 8106280,
+   "old_title": "Trunk Bottle and Can Tray - 6 Cells, Keeps Drinks Upright",
+   "new_title": "Trunk Bottle and Can Tray - 6 Cells"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_YarnBowl_makerworld_v3.zip",
+  "sha256": "f90293ce6da452883a67958f371da9569ec415244508a2f4f81bcaa61709a07d",
+  "size": 5003127,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_YarnBowl_makerworld_v2.zip",
+   "source_sha256": "cc9399f01b621a247beca2a0fa12daeb117c6dc4d9d419b7e4f7b47017b1c53f",
+   "source_size": 5002274,
+   "old_title": "Yarn Bowl with Swirl Guide Slot - 132 mm, Prints Without Supports",
+   "new_title": "Yarn Bowl with Swirl Guide Slot - 132 mm"
+  }
+ }
+]
