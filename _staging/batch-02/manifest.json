@@ -66,5 +66,65 @@
         "raw_bytes": 339388
       }
     ]
+  },
+  {
+    "zip": "GuiWheyLabs_DeskPhoneStand_makerworld_v2.zip",
+    "sha256": "9c12cbcf3fa9cf350d0eb4b0a11a1b49afed72f6937ac6e09a0b18b2f9ed2c84",
+    "size": 1688737,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DeskPhoneStand_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DeskPhoneStand_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 488737
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_SpongeCaddy2Bay_makerworld_v2.zip",
+    "sha256": "3042df0df7ae9b691297b8cf3a02062c02a893d317ca128cf25a1b2af5402d73",
+    "size": 1860816,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_SpongeCaddy2Bay_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_SpongeCaddy2Bay_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 660816
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_LidBoardRack7Slot_makerworld_v2.zip",
+    "sha256": "40fe9da7523e665534995dd667b1cf50b5d763e65a06bbb9de01fd4715c99be7",
+    "size": 1499158,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_LidBoardRack7Slot_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_LidBoardRack7Slot_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 299158
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_CableSlotBar5_makerworld_v2.zip",
+    "sha256": "07a005a5f22adf5cde4a822c883fefa0b64fe00d05c56508bfe4b07e8a19081a",
+    "size": 1722044,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_CableSlotBar5_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CableSlotBar5_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 522044
+      }
+    ]
   }
 ]
