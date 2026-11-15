@@ -1,0 +1,70 @@
+[
+  {
+    "zip": "GuiWheyLabs_CupholderCoinKeyTray_makerworld_v2.zip",
+    "sha256": "af3c69a0de6305326d330428003bdab11ce25b59fd68bac48c4c52a9dd04bf19",
+    "size": 2462544,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_CupholderCoinKeyTray_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupholderCoinKeyTray_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupholderCoinKeyTray_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 62544
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_CupholderBottleAdapter_makerworld_v2.zip",
+    "sha256": "731bf9973cc5bad89fcb120fcf89374c1e8ea02f3c12690e96b375c7e1f0170a",
+    "size": 1710294,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_CupholderBottleAdapter_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_CupholderBottleAdapter_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 510294
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_OverDoorDoubleHook_makerworld_v2.zip",
+    "sha256": "777ac75193efcefdd0e9ccd48960917a632b77c7bc460c6e35650386bc9bb7c1",
+    "size": 2618079,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_OverDoorDoubleHook_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_OverDoorDoubleHook_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_OverDoorDoubleHook_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 218079
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_DrawerTray4Bay_makerworld_v2.zip",
+    "sha256": "2e1b8d0f75a61eac7da089f1240a273cf94589189385846d62e3e24b46a09d30",
+    "size": 1539388,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DrawerTray4Bay_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DrawerTray4Bay_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 339388
+      }
+    ]
+  }
+]
