@@ -1,0 +1,62 @@
+[
+ {
+  "zip": "GuiWheyLabs_PegboardHooks3Sizes_makerworld_v3.zip",
+  "sha256": "d07386517a7058f1afaf73f6bbd1374b8fac7969a5c07b0c51e09d8c6688ebdd",
+  "size": 1616006,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_PegboardHooks3Sizes_makerworld_v2.zip",
+   "source_sha256": "5ad58d0b527749dd2a190b1c77fd4c543712f3bf8dc9f02933073cdd066b0e8e",
+   "source_size": 1614669,
+   "old_title": "Pegboard Hooks - Short, Medium, Long J-Hooks for 1/4 in Holes",
+   "new_title": "Pegboard Hooks - 3 Sizes for 1/4 in Holes"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_PlantSaucers3Sizes_makerworld_v3.zip",
+  "sha256": "dfd32ea7efe794976fed9e8bf80e51fbfe3d126f21001d200a412801da7ad840",
+  "size": 6232467,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_PlantSaucers3Sizes_makerworld_v2.zip",
+   "source_sha256": "ffdada39be613d076e8f0a3bd9fc0bc393d55215436569987bee4e29475f0270",
+   "source_size": 6231313,
+   "old_title": "Round Plant Pot Saucers - 3 Sizes (100, 130, 160 mm Base)",
+   "new_title": "Round Plant Pot Saucers - 3 Sizes, 100-160 mm"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_RemotePocketTrio_makerworld_v3.zip",
+  "sha256": "3f223a0f1a94fafb4e3b0f5f13967a444a031d5727bdfbd942df9e925bedd6fb",
+  "size": 1749190,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_RemotePocketTrio_makerworld_v2.zip",
+   "source_sha256": "41c2e07c03d1dcbad239747844fe33e543bca875509cf65295f213c2277d0903",
+   "source_size": 1748305,
+   "old_title": "Wall Pocket Trio for Remotes and Small Items - 3 Slots, Screw Mount",
+   "new_title": "Wall Pocket Trio for Remotes, 3 Slots"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_ShelfBracketL_makerworld_v3.zip",
+  "sha256": "658f6366c6764fbc4a93eb56e96afa46aec5a03f06af12aa0941a7bf8d8990e3",
+  "size": 5442577,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_ShelfBracketL_makerworld_v2.zip",
+   "source_sha256": "5020d090b17c596456aa96191c539ea73384b4af1e165e4ccf07234f3595499b",
+   "source_size": 5441615,
+   "old_title": "Small Shelf Brackets 2-Pack - 110 x 90 mm with Diagonal Brace",
+   "new_title": "Small Shelf Brackets 2-Pack, 110 x 90 mm"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_StepRiser3Tier_makerworld_v3.zip",
+  "sha256": "20cb9bc21d6f0c267472a78d2034c01d728cb1c83ea95cb7dfee660180bd08b6",
+  "size": 3095630,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_StepRiser3Tier_makerworld_v2.zip",
+   "source_sha256": "a301a687f72830194b8d7e50d564b1f85d2c35850b34d85797ba89cecb119ffb",
+   "source_size": 3094679,
+   "old_title": "3-Step Spice Jar Riser for Cabinet or Counter - 220 mm Wide",
+   "new_title": "3-Step Spice Jar Riser, 220 mm Wide"
+  }
+ }
+]

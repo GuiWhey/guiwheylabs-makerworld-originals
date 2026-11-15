@@ -1,0 +1,62 @@
+[
+ {
+  "zip": "GuiWheyLabs_BagDispenserTube_makerworld_v3.zip",
+  "sha256": "03ee38b36fb707f80dd862e2e21a9e6939f9d4209d97b6313fa25e6475a5947b",
+  "size": 3999337,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_BagDispenserTube_makerworld_v2.zip",
+   "source_sha256": "910c4851178eb9c6ba261889ec69f58c6c2bc3d596e6f26190bcc40eee4379bc",
+   "source_size": 3998319,
+   "old_title": "Grocery Bag Dispenser Tube - Wall Mount, Holds Folded Plastic Bags",
+   "new_title": "Grocery Bag Dispenser Tube - Wall Mount"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_CableWinders8_makerworld_v3.zip",
+  "sha256": "08e55cd4fe5454b3d98477588007491e8bb4153660cd1a92bd70457e95d40dfc",
+  "size": 1736574,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_CableWinders8_makerworld_v2.zip",
+   "source_sha256": "a13566536d9bdee53bb6bc9db8445fa0984b25b84ede8c80400bd859cdeafd4b",
+   "source_size": 1735666,
+   "old_title": "Cable Winders - 8-Pack, Small and Large Bone Shapes, Prints Flat",
+   "new_title": "Cable Winders 8-Pack - Small and Large"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_DoorStopWedge_makerworld_v3.zip",
+  "sha256": "2b65ecd57a27b7e329c38105b7de7cde2793ed0d701369fae1f1b17babb164e2",
+  "size": 1340528,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_DoorStopWedge_makerworld_v2.zip",
+   "source_sha256": "bac9e3b95bf839ed53b69478203f52d4852e4de62013e2bb45e1958dd11c9c9d",
+   "source_size": 1339718,
+   "old_title": "Door Stop Wedge - 38 mm High, Cord Hole, Prints Flat",
+   "new_title": "Door Stop Wedge - 38 mm High, Cord Hole"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_DrawerPulls96x4_makerworld_v3.zip",
+  "sha256": "132a84bb2dfc975818d8ca782cde1d530f98d04df8d3a785cb890447421f6d34",
+  "size": 3272029,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_DrawerPulls96x4_makerworld_v2.zip",
+   "source_sha256": "51d9cebfe91c5ebd8b1b17700fa7b90c3e49a249e418854afa47918d3c0492f7",
+   "source_size": 3271065,
+   "old_title": "Drawer Pulls 96 mm - 4-Pack Bar Handles, Print Flat",
+   "new_title": "Drawer Pulls 96 mm - 4-Pack Bar Handles"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_HexBitHolder24_makerworld_v3.zip",
+  "sha256": "15361fee40540542071192cf61b23fd4b9dbb24e90a876596f57b4522895b92d",
+  "size": 3021970,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-04/GuiWheyLabs_HexBitHolder24_makerworld_v2.zip",
+   "source_sha256": "da89b98a48f3c2c7104836383dfd3abc0c5ee0d5dbea2ae9e2c691404b0fc11b",
+   "source_size": 3021116,
+   "old_title": "Hex Bit Holder - 24 Pockets for 1/4 in Bits, Prints Upright",
+   "new_title": "Hex Bit Holder - 24 Pockets for 1/4 in Bits"
+  }
+ }
+]
