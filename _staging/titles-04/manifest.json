@@ -1,0 +1,50 @@
+[
+ {
+  "zip": "GuiWheyLabs_SpongeCaddy2Bay_makerworld_v3.zip",
+  "sha256": "0b17d57022b2cfb06f1ffad900632ec90b0f85e278be27fda0ac88033bdff786",
+  "size": 1861676,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_SpongeCaddy2Bay_makerworld_v2.zip",
+   "source_sha256": "3042df0df7ae9b691297b8cf3a02062c02a893d317ca128cf25a1b2af5402d73",
+   "source_size": 1860816,
+   "old_title": "Two-Bay Sponge and Brush Caddy with Drain Slots",
+   "new_title": "Two-Bay Sponge and Brush Caddy with Drain Slots"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v3.zip",
+  "sha256": "bc637f1c47616fcf0935744f650ab808680a6210c02bc1c598b50592fa7cc928",
+  "size": 11705029,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_TreeFoamSoapSleeve_makerworld_v2.zip",
+   "source_sha256": "5d7e6d4f4c1acdc0390817cdede88eaf16e07bf01a784402c42dbd34efc295af",
+   "source_size": 11703966,
+   "old_title": "Snowy Christmas Tree Sleeve for Foaming Soap Pump Bottle",
+   "new_title": "Snowy Christmas Tree Soap Pump Bottle Sleeve"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v3.zip",
+  "sha256": "8759cc30814b2c76eeec5f1268059e237feb9496403c01c1db2b396a1b548b96",
+  "size": 9467548,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_VanFloorCradle_PowerStation_2part_makerworld_v2.zip",
+   "source_sha256": "8ef9c71df97c980b7ac91be0478fbba3aceb3998b02b376c3da995a7d52ca85f",
+   "source_size": 9465813,
+   "old_title": "Van Floor Cradle for Portable Power Station (2-Part, Bolt-Together)",
+   "new_title": "Van Floor Cradle for Power Station, 2-Part"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v3.zip",
+  "sha256": "20f1a3f18ff610739baa0b89270b3c82b573b10394d527a1fa84e5d59f21ffb3",
+  "size": 12837505,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-02/GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v2.zip",
+   "source_sha256": "ef06b78a45a321cbadc4b4dbcd2c1df0fed298456f97156504061fdcbeee1d01",
+   "source_size": 12835946,
+   "old_title": "Van Floor Dock for Portable Power Station - Strap Windows, 2-Part",
+   "new_title": "Van Floor Dock for Power Station, Strap Slots"
+  }
+ }
+]

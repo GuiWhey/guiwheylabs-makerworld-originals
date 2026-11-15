@@ -1,0 +1,62 @@
+[
+ {
+  "zip": "GuiWheyLabs_BroomClipWall_makerworld_v3.zip",
+  "sha256": "a1626371aaa3a39c0e08e5f13cb2b8c4e0f9e1a1498c58e11097cca7743a38c8",
+  "size": 2624518,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_BroomClipWall_makerworld_v2.zip",
+   "source_sha256": "a8f294a8ddb3086f87928645ab17bb3d9df33fffd73f13ace6213253c5ff057a",
+   "source_size": 2623556,
+   "old_title": "Broom and Mop Handle Wall Clips - Snap-In, 3-Pack for 24 mm Handles",
+   "new_title": "Broom and Mop Wall Clips, 3-Pack, 24 mm"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_CupHolderPhoneDock_makerworld_v3.zip",
+  "sha256": "77e81cee3f865134e2a34b5574101a6e3155676f27b2ab3e4d4bee0190c60c5f",
+  "size": 4114038,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_CupHolderPhoneDock_makerworld_v2.zip",
+   "source_sha256": "f5a49cf6c52743a4a205e3f2f6cc7a60a4d286f28d5e5337c1d5e70cf137c3d3",
+   "source_size": 4112958,
+   "old_title": "Cup Holder Phone Dock with Cable Notch - Slanted Slot for Car Console",
+   "new_title": "Cup Holder Phone Dock with Cable Notch"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_HoseRopeHanger_makerworld_v3.zip",
+  "sha256": "c4b552afa9be8b75cfdccea1d0b9f7ba648ead550db0c67cdf5a2579f783667d",
+  "size": 3219131,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_HoseRopeHanger_makerworld_v2.zip",
+   "source_sha256": "aed8aab3c431ec4ea63c35f691b5c83955a253d0a1008d5ab2ac8187af569e6f",
+   "source_size": 3218024,
+   "old_title": "Garden Hose and Rope Wall Hanger - 165 mm Arm, Screw Mount",
+   "new_title": "Garden Hose and Rope Wall Hanger, 165 mm Arm"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_KeyPegRail5_makerworld_v3.zip",
+  "sha256": "7061618dccc5b55b210781e0ca46e43f212daa8f514b8cc2ed24abca260bb8e4",
+  "size": 3438650,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_KeyPegRail5_makerworld_v2.zip",
+   "source_sha256": "3962d509fea3fb878139de8d15bf63221101fe11382ff68064ab7cf20acab3b0",
+   "source_size": 3437574,
+   "old_title": "Wall Key Rack - 5 Mushroom Pegs, Screw Mount, Prints Flat",
+   "new_title": "Wall Key Rack - 5 Mushroom Pegs, Screw Mount"
+  }
+ },
+ {
+  "zip": "GuiWheyLabs_MugTree4Peg_makerworld_v3.zip",
+  "sha256": "e4061c885751062f62cd93df6c172ec9d57025f409ac357293d8a94ef6fc2777",
+  "size": 6995630,
+  "retitle": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/batch-03/GuiWheyLabs_MugTree4Peg_makerworld_v2.zip",
+   "source_sha256": "a8cb7a7c300aca9aae96a594f378c960dad5d0e2ac9ddc6d8275a99d8ca1eba7",
+   "source_size": 6994751,
+   "old_title": "Mug Tree - 4 Pegs, One Piece, No Supports",
+   "new_title": "Mug Tree - 4 Pegs, One Piece, No Supports"
+  }
+ }
+]
