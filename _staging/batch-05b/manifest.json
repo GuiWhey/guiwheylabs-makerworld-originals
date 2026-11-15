@@ -1,0 +1,81 @@
+[
+  {
+    "zip": "GuiWheyLabs_IceScraper_makerworld_v2.zip",
+    "sha256": "54bf330427710c6d9853ece00f4820f1a9d131b65a3a2c4e0ff937d92145edd7",
+    "size": 2267757,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_IceScraper_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_IceScraper_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1067757
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_DrawerDividers5_makerworld_v2.zip",
+    "sha256": "e068991eb53cf313d8353adc8702bb00aaa8a0fef9509ca5ce2df6aeb98807fb",
+    "size": 2128024,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DrawerDividers5_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DrawerDividers5_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 928024
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_PlantMarkers12_makerworld_v2.zip",
+    "sha256": "eaef5d2e1bb16b2971b8efa9b8887b28587887624d17ea5e4ed1885558583bc4",
+    "size": 2790190,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_PlantMarkers12_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantMarkers12_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_PlantMarkers12_makerworld_v2.zip.part002.b64",
+        "raw_bytes": 390190
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_LetterRack3_makerworld_v2.zip",
+    "sha256": "60755a8ebd8e9487445ee1bcfcf4678ab13fd111c312f5cbd28ab66309b271b4",
+    "size": 1342997,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_LetterRack3_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_LetterRack3_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 142997
+      }
+    ]
+  },
+  {
+    "zip": "GuiWheyLabs_DeskGrommet60_makerworld_v2.zip",
+    "sha256": "37dfa63bbeb0051ee5734b9df4a5c1692a3dda2a3f6cca7b85fd9e6c627cbf86",
+    "size": 2117218,
+    "parts": [
+      {
+        "name": "GuiWheyLabs_DeskGrommet60_makerworld_v2.zip.part000.b64",
+        "raw_bytes": 1200000
+      },
+      {
+        "name": "GuiWheyLabs_DeskGrommet60_makerworld_v2.zip.part001.b64",
+        "raw_bytes": 917218
+      }
+    ]
+  }
+]
