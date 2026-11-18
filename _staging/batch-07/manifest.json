@@ -1,154 +1,74 @@
 [
  {
-  "zip": "GuiWheyLabs_SnowflakeOrnaments3_makerworld_v1.zip",
-  "sha256": "ae6cca6bc3c2d8ffae70bfba33f809b35201e73b61d328c4a1555d883d1c3e3c",
-  "size": 3224151,
+  "zip": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip",
+  "sha256": "24be13e7b5c81c6eeb85bc03fb4cd3be4bd26903e159c180473b6dcc0066d7aa",
+  "size": 7400680,
   "parts": [
    {
-    "name": "GuiWheyLabs_SnowflakeOrnaments3_makerworld_v1.zip.part000.b64",
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part000.b64",
     "raw_bytes": 1200000
    },
    {
-    "name": "GuiWheyLabs_SnowflakeOrnaments3_makerworld_v1.zip.part001.b64",
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part001.b64",
     "raw_bytes": 1200000
    },
    {
-    "name": "GuiWheyLabs_SnowflakeOrnaments3_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 824151
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_BatteryOrganizer24_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 200680
    }
   ]
  },
  {
-  "zip": "GuiWheyLabs_WrapRollClips4_makerworld_v1.zip",
-  "sha256": "f1078676003bbba74a2e77f10559cbf4b25a7d51e68f49a433a716310895c67b",
-  "size": 2807853,
+  "zip": "GuiWheyLabs_SDCardHolder_makerworld_v1.zip",
+  "sha256": "fc9302857fa2448266212ffc9a9c5025929ac60f459a241fc40a5a7f093498ff",
+  "size": 3743893,
   "parts": [
    {
-    "name": "GuiWheyLabs_WrapRollClips4_makerworld_v1.zip.part000.b64",
+    "name": "GuiWheyLabs_SDCardHolder_makerworld_v1.zip.part000.b64",
     "raw_bytes": 1200000
    },
    {
-    "name": "GuiWheyLabs_WrapRollClips4_makerworld_v1.zip.part001.b64",
+    "name": "GuiWheyLabs_SDCardHolder_makerworld_v1.zip.part001.b64",
     "raw_bytes": 1200000
    },
    {
-    "name": "GuiWheyLabs_WrapRollClips4_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 407853
+    "name": "GuiWheyLabs_SDCardHolder_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SDCardHolder_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 143893
    }
   ]
  },
  {
-  "zip": "GuiWheyLabs_NapkinRings4_makerworld_v1.zip",
-  "sha256": "73fa2027d1267123d15fe9105364729fae3d09948b00b996fb4cf0f54d89f8f0",
-  "size": 4510256,
+  "zip": "GuiWheyLabs_BusinessCardHolder_makerworld_v1.zip",
+  "sha256": "952b92e102adc163f7b9b189811c37a7f096eb198a3a3e7044f0ea2a27fcff45",
+  "size": 2314584,
   "parts": [
    {
-    "name": "GuiWheyLabs_NapkinRings4_makerworld_v1.zip.part000.b64",
+    "name": "GuiWheyLabs_BusinessCardHolder_makerworld_v1.zip.part000.b64",
     "raw_bytes": 1200000
    },
    {
-    "name": "GuiWheyLabs_NapkinRings4_makerworld_v1.zip.part001.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_NapkinRings4_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_NapkinRings4_makerworld_v1.zip.part003.b64",
-    "raw_bytes": 910256
-   }
-  ]
- },
- {
-  "zip": "GuiWheyLabs_LightStringWinder2_makerworld_v1.zip",
-  "sha256": "4652a2aec15c739b5bd59100cd4e8926b48310a34163f7e221904cfe7b82b0f0",
-  "size": 3746247,
-  "parts": [
-   {
-    "name": "GuiWheyLabs_LightStringWinder2_makerworld_v1.zip.part000.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_LightStringWinder2_makerworld_v1.zip.part001.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_LightStringWinder2_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_LightStringWinder2_makerworld_v1.zip.part003.b64",
-    "raw_bytes": 146247
-   }
-  ]
- },
- {
-  "zip": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip",
-  "sha256": "8a78c29690b5f092ac0da59366aa19d751f82466a0c7f02afb5a7e104315e132",
-  "size": 6205038,
-  "parts": [
-   {
-    "name": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip.part000.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip.part001.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip.part003.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip.part004.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_RopeCleat2_makerworld_v1.zip.part005.b64",
-    "raw_bytes": 205038
-   }
-  ]
- },
- {
-  "zip": "GuiWheyLabs_FlashlightClips2_makerworld_v1.zip",
-  "sha256": "89230dfdb83dcde8056ffb6d395743a5379d03b6293e7984a070efeaafc35ff3",
-  "size": 2661413,
-  "parts": [
-   {
-    "name": "GuiWheyLabs_FlashlightClips2_makerworld_v1.zip.part000.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_FlashlightClips2_makerworld_v1.zip.part001.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_FlashlightClips2_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 261413
-   }
-  ]
- },
- {
-  "zip": "GuiWheyLabs_WallCupHolder_makerworld_v1.zip",
-  "sha256": "b3fe45ef29afdd44d84735c46c52f25ca2164fd37b9078d8220927532e3b8d21",
-  "size": 3382588,
-  "parts": [
-   {
-    "name": "GuiWheyLabs_WallCupHolder_makerworld_v1.zip.part000.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_WallCupHolder_makerworld_v1.zip.part001.b64",
-    "raw_bytes": 1200000
-   },
-   {
-    "name": "GuiWheyLabs_WallCupHolder_makerworld_v1.zip.part002.b64",
-    "raw_bytes": 982588
+    "name": "GuiWheyLabs_BusinessCardHolder_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1114584
    }
   ]
  }
