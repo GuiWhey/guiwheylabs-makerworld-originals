@@ -1,0 +1,89 @@
+[
+ {
+  "zip": "GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v5.zip",
+  "sha256": "dc00e6c6174cc80e1dc847537e3bdadaa68202c073e95243174b22196df318ad",
+  "size": 3723587,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/images-01/GuiWheyLabs_ScrewdriverRack2Tier_makerworld_v4.zip",
+   "source_sha256": "c6fc7226f51b2f4f8641f7ca73a39edc11431d63c13ba7e5b69860ab0115e7aa",
+   "source_size": 3634761,
+   "images": [
+    {
+     "name": "05_side_step_profile.jpg",
+     "path": "_staging/images-02/extra/ScrewdriverRack2Tier__05_side_step_profile.jpg.b64",
+     "sha256": "91da90a53f31052645703a678885842cf37c52bcbe6e5ae4e4bce8b343f93846"
+    }
+   ]
+  },
+  "n_images": 5
+ },
+ {
+  "zip": "ScrewdriverRack2Tier_05_side_step_profile.jpg",
+  "sha256": "91da90a53f31052645703a678885842cf37c52bcbe6e5ae4e4bce8b343f93846",
+  "size": 88588,
+  "parts": [
+   {
+    "name": "ScrewdriverRack2Tier_05_side_step_profile.jpg.part000.b64",
+    "raw_bytes": 88588
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_CableSlotBar5_makerworld_v5.zip",
+  "sha256": "29f9969ab53f483b494ee772c503371b6cba55b170dad016d58e7bcb05f5841f",
+  "size": 1938401,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/images-01/GuiWheyLabs_CableSlotBar5_makerworld_v4.zip",
+   "source_sha256": "3026895a1b9833c45f6f8aa1845b0fa6159416dc6312a5ffbc79d3ecece79a71",
+   "source_size": 1835164,
+   "images": [
+    {
+     "name": "05_top_and_underside.jpg",
+     "path": "_staging/images-02/extra/CableSlotBar5__05_top_and_underside.jpg.b64",
+     "sha256": "305aaacb09b9506997b7950b37aa786421b20df79ad5e2f7bf446b022f365792"
+    }
+   ]
+  },
+  "n_images": 5
+ },
+ {
+  "zip": "CableSlotBar5_05_top_and_underside.jpg",
+  "sha256": "305aaacb09b9506997b7950b37aa786421b20df79ad5e2f7bf446b022f365792",
+  "size": 103013,
+  "parts": [
+   {
+    "name": "CableSlotBar5_05_top_and_underside.jpg.part000.b64",
+    "raw_bytes": 103013
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v5.zip",
+  "sha256": "d0277f72a78c713906d4ecb7fbd3b2f79cf3f947f6cdaefdc6089a70e75137bb",
+  "size": 13077560,
+  "addimages": {
+   "source_url": "https://github.com/GuiWhey/guiwheylabs-makerworld-originals/releases/download/images-01/GuiWheyLabs_VanFloorDock_PowerStation_StrapWindows_makerworld_v4.zip",
+   "source_sha256": "cada05590dba2e75f77b300b747d7935fb03e36aaeb6ef2c4680bb1b2a3f0c3c",
+   "source_size": 12977990,
+   "images": [
+    {
+     "name": "03_side_strap_window.jpg",
+     "path": "_staging/images-02/extra/VanFloorDock_PowerStation_StrapWindows__03_side_strap_window.jpg.b64",
+     "sha256": "16d01bb5a881c69d728c61c91d90a266fc2deb052b70a1417e96def5d8679c81"
+    }
+   ]
+  },
+  "n_images": 5
+ },
+ {
+  "zip": "VanFloorDock_PowerStation_StrapWindows_03_side_strap_window.jpg",
+  "sha256": "16d01bb5a881c69d728c61c91d90a266fc2deb052b70a1417e96def5d8679c81",
+  "size": 99296,
+  "parts": [
+   {
+    "name": "VanFloorDock_PowerStation_StrapWindows_03_side_strap_window.jpg.part000.b64",
+    "raw_bytes": 99296
+   }
+  ]
+ }
+]
