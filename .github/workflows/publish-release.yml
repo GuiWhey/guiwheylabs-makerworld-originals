@@ -29,9 +29,9 @@ jobs:
           python3 scripts/reassemble_release.py "$TAG"
           ls -lh dist
           if gh release view "$TAG" >/dev/null 2>&1; then
-            gh release upload "$TAG" dist/*.zip --clobber
+            gh release upload "$TAG" dist/* --clobber
           else
-            gh release create "$TAG" dist/*.zip \
+            gh release create "$TAG" dist/* \
               --title "${{ inputs.title }}" \
               --notes-file "RELEASE_NOTES_${TAG}.md"
           fi
