@@ -35,4 +35,6 @@ jobs:
               --title "${{ inputs.title }}" \
               --notes-file "RELEASE_NOTES_${TAG}.md"
           fi
+          # keep the release body in sync with the notes file (lists every asset), also on re-runs
+          gh release edit "$TAG" --title "${{ inputs.title }}" --notes-file "RELEASE_NOTES_${TAG}.md"
           gh release view "$TAG"
