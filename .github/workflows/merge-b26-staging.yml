@@ -1,0 +1,44 @@
+name: merge-b26-staging
+on:
+  workflow_dispatch:
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Merge b26p branches onto a staging branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B b26-staging-merge origin/main
+          mapfile -t branches < <(git for-each-ref --format='%(refname:short)' 'refs/remotes/origin/b26p/' | sort)
+          echo "Found ${#branches[@]} b26p branches"
+          printf '%s\n' "${branches[@]}"
+          if [ "${#branches[@]}" -lt 70 ]; then
+            echo "Expected at least 70 b26p branches" >&2
+            exit 1
+          fi
+          if ! git merge --no-ff --no-edit -m "Merge batch-26 staging part branches" "${branches[@]}"; then
+            echo "Octopus merge failed; falling back to sequential merges"
+            git merge --abort || true
+            git checkout -B b26-staging-merge origin/main
+            for b in "${branches[@]}"; do
+              echo "Merging $b"
+              git merge --no-ff --no-edit -m "Merge $b" "$b"
+            done
+          fi
+          git push -u origin b26-staging-merge --force
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create --base main --head b26-staging-merge \
+            --title "Merge batch-26 staging zip parts" \
+            --body "Combines disjoint b26p/* staging part branches so publish-release can reassemble the batch-26 zips." \
+            || true
