@@ -1,0 +1,670 @@
+[
+ {
+  "zip": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip",
+  "sha256": "6be8c0e19682df13277dc0b2a7069726202043d11c0f402ce7debabe3f1f3318",
+  "size": 8301839,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_GrinderDiscRack_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 1101839
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip",
+  "sha256": "da064aa34dc0781084e6694170909ea8c5c3596dae6187f2a53b06edb0ec9599",
+  "size": 7306361,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RivetGunHolster_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 106361
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip",
+  "sha256": "6f3524c14b9213cf69ca1c86e6cb29e577105a6482c9896f99e724652578f83b",
+  "size": 6503812,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PipeCutterRack_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 503812
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_FumeExtractorStand_makerworld_v1.zip",
+  "sha256": "e19a82f9cfaf2baf16e51402c23d0260e3347498982ff5e498da5e9c4d8722ca",
+  "size": 5044092,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_FumeExtractorStand_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_FumeExtractorStand_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_FumeExtractorStand_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_FumeExtractorStand_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_FumeExtractorStand_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 244092
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip",
+  "sha256": "4c5990cf861f5c822076b3ce3663ba9f3cf99b7d8f5273ab5a5324de1b15f28f",
+  "size": 6750672,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ProbeWallComb_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 750672
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_LuggageScaleHook_makerworld_v1.zip",
+  "sha256": "c33a1b0b90890bc5509c64a771a4f6223fcd60c038ced773bfae00657738b1f7",
+  "size": 4279640,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_LuggageScaleHook_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LuggageScaleHook_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LuggageScaleHook_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LuggageScaleHook_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 679640
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip",
+  "sha256": "4ffba4dcc6ced2f2860095c33a99ddc4408a9fe3121411c2ea887381b947ca8a",
+  "size": 9365516,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_TravelAdapterTray_makerworld_v1.zip.part007.b64",
+    "raw_bytes": 965516
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_WatchStrapTray_makerworld_v1.zip",
+  "sha256": "e4015598426ef771a6e0d385fa4401b90a84c6a4811441b92fb17bd7845da81e",
+  "size": 5820446,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_WatchStrapTray_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WatchStrapTray_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WatchStrapTray_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WatchStrapTray_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WatchStrapTray_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1020446
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip",
+  "sha256": "a2241f3f82cf9ad51f939db94f230b051e735e844e9695c44bdd39afcbbcce20",
+  "size": 7281766,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_CameraBatteryCaddy_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 81766
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip",
+  "sha256": "88c591f66f4cb4fba12c96d2ef787037c1dd36fdbca88248f03630c26cfd8147",
+  "size": 7661823,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_LensFilterRack_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 461823
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip",
+  "sha256": "097eb0432f74216ce56f3916150cfb54636baf6b1e16a0ab2c91d0797b79f614",
+  "size": 7357717,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_SkiGoggleCradle_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 157717
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip",
+  "sha256": "abc358111b0c6b67f65de3fd2a6ea9f2a3773f72165daac1aa35f2da59a896f4",
+  "size": 12906490,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part007.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part008.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part009.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_YogaBlockShelf_makerworld_v1.zip.part010.b64",
+    "raw_bytes": 906490
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_PassportTagTray_makerworld_v1.zip",
+  "sha256": "d3dbdd888bd47036177d0b071af803b89e88ea68afc85a0dcd961bacbb44ee61",
+  "size": 5174889,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_PassportTagTray_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PassportTagTray_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PassportTagTray_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PassportTagTray_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PassportTagTray_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 374889
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip",
+  "sha256": "949a6d0555a59b4050e53c4f46def19d9f95ed5a025abe5a745b02e9f947b469",
+  "size": 6255964,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_RotaryToolHolster_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 255964
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip",
+  "sha256": "a2e98c36b145b3d74c366a1e73e11dda8156db2777619a075516128b5a76f8c2",
+  "size": 6068947,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_StudFinderHolster_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 68947
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip",
+  "sha256": "8c98066e408bac4d05007b95e975531ca04a2dc4c7fcaf2fe726acded6de6765",
+  "size": 6204794,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_WeldingHelmetHook_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 204794
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip",
+  "sha256": "28470861b0a9ff14d1a99a061185681a7725ed8611d02ffd2d85c762495a7850",
+  "size": 7933248,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_ExtensionPoleClip_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 733248
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip",
+  "sha256": "f639bbddf20ecefa11f2590a28d0c97fc2f4dea5249980da377a5118c9147b36",
+  "size": 8118461,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_IceSkateHanger_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 918461
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip",
+  "sha256": "a80a1a8993d2eef2e6121b4d1db86c1d143def78f5fa78a163a517656db8b821",
+  "size": 6921052,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PowerBankDock_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 921052
+   }
+  ]
+ },
+ {
+  "zip": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip",
+  "sha256": "6af68f93ca7343dd13d74231896376c8df3bf5aae0688c1237ddfba757a4cf64",
+  "size": 10622423,
+  "parts": [
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part000.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part001.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part002.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part003.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part004.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part005.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part006.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part007.b64",
+    "raw_bytes": 1200000
+   },
+   {
+    "name": "GuiWheyLabs_PaintSprayerHolster_makerworld_v1.zip.part008.b64",
+    "raw_bytes": 1022423
+   }
+  ]
+ }
+]
